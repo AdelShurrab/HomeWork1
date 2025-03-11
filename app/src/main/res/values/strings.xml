@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">HomeWork1</string>
+    <string name="button_1">BUTTON 1</string>
+    <string name="button_2">BUTTON 2</string>
+    <string name="button_3">BUTTON 3</string>
+    <string name="button_4">BUTTON 4</string>
+    <string name="header_txt">Linear Layout (Without Weight)</string>
+    <string name="footer_txt">Linear Layout UI</string>
+</resources>
