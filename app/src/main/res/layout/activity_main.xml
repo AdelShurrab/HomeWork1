@@ -11,6 +11,23 @@
     android:paddingTop="0dp"
     android:paddingBottom="16dp">
 
+    <!--    Name and University Number-->
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/name"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:gravity="center"
+        android:layout_marginBottom="4dp"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/uni_num"
+        android:textSize="16sp"
+        android:gravity="center"
+        android:layout_marginBottom="16dp"/>
+
     <!-- Top TextView -->
     <TextView
         android:id="@+id/topTextView"
