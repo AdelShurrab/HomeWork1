@@ -1,2 +1,3 @@
-![HomeWork1 layout screenshot](https://github.com/user-attachments/assets/7bc96963-e565-4b75-bfb9-6cb17b93a655)
-![HomeWork1 code screenshot](https://github.com/user-attachments/assets/d3f6f630-e22b-4de0-9c8a-bc51951d7d25)
+![HomeWork1 linear layout screenshot](https://github.com/user-attachments/assets/7bc96963-e565-4b75-bfb9-6cb17b93a655)
+
+![HomeWork2 relative layout](https://github.com/user-attachments/assets/b8ed988d-a20c-4144-a9eb-eb916c34ef10)
